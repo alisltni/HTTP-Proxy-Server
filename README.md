@@ -6,7 +6,7 @@ Supports caching, URL blocking, and traceroute functionality.
 ## Description
 
 This project is a Python-based HTTP proxy server that allows you to intercept and forward HTTP requests from clients to target servers.  
-It is the final project of **Data Communication Networks** course.
+It is the final project of **Data Networks** course.
 
 **Key capabilities:**
 
